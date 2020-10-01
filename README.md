@@ -1,6 +1,6 @@
 ## Nik Schaefer
 
-```
+```js
 const readMe = {
   greetings: "Stranger",
   iAm: "An Aspiring Developer",
