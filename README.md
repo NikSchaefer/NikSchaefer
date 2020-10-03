@@ -10,7 +10,7 @@ const readMe = {
   
   technologies:{
       frameworks:["nodeJs", "React"],
-      languages: ["Javascript", "Python", "HTML", "CSS", C#],
+      languages: ["Javascript", "Python", "HTML", "CSS", "C#"],
       mobileApp: ["React Native"],
       gameDev: ["Unity"]
   },
