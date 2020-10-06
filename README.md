@@ -2,6 +2,8 @@
 
 ```js
 const readMe = {
+  portfolio: "https://nikschaefer.vercel.app/",
+  
   greetings: "Stranger",
   iAm: "An Aspiring Developer",
   currently:"Working On Open Source Projects",
