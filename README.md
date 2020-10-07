@@ -25,3 +25,5 @@ const readMe = {
 
 
 ```
+
+Check out my portfolio at https://nikschaefer.vercel.app/
