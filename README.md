@@ -1,29 +1,28 @@
 ## Nik Schaefer
-
+Contact me at nikkschaefer@gmail.com
 ```js
 const readMe = {
   portfolio: "https://nikschaefer.vercel.app/",
   
   greetings: "Stranger",
   iAm: "An Aspiring Developer",
-  currently:"Working On Open Source Projects",
+  mainCraft: "Full stack Development, Product Design, Interaction Design",
+  currently:{
   InternFor:"The Esport Company",
-  askMeAbout:["Game Dev", "App Dev", "Web Dev", "Tech"],
-  
-  technologies:{
-      frameworks:["nodeJs", "React"],
-      languages: ["Javascript", "Python", "HTML", "CSS", "C#", "JSX"],
-      mobileApp: ["React Native"],
-      gameDev: ["Unity"]
-  },
+  Education:"in High School",
+  workingOn:"Open source projects",
   learning:["Flask", "Typescript"],
-  
-  weakness:null,
-  findMeOn:[{ discord: "Niko.#5460" }],
+  },
+  technologies:{
+      frameworks:["nodeJs", "React", "React Native", "Unity", "Firebase"],
+      languages: ["Javascript", "Python", "HTML", "CSS", "C#", "JSX"],
+  },
+  askMeAbout:["Game Dev", "App Dev", "Web Dev", "Tech"],
+  findMeOn:[{ discord: "Niko.#5460", "https://nikschaefer.vercel.app/" }],
+
+  Contact:'nikkschaefer@gmail.com'
 
 };
-
-
 ```
 
 Check out my portfolio at https://nikschaefer.vercel.app/
