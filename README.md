@@ -1,17 +1,17 @@
 ## Nik Schaefer
-Contact me at nikkschaefer@gmail.com
+### Contact me at 📧  nikkschaefer@gmail.com
 ```js
 const readMe = {
   portfolio: "https://nikschaefer.vercel.app/",
   
-  greetings: "Stranger",
+  greetings: "👋 Stranger",
   iAm: "An Aspiring Developer",
   mainCraft: "Full stack Development, Product Design, Interaction Design",
   currently:{
-  InternFor:"The Esport Company",
-  Education:"in High School",
-  workingOn:"Open source projects",
-  learning:["Flask", "Typescript"],
+    InternFor:"💻 The Esport Company",
+    Education:"🏫 in High School",
+    workingOn:"Open source projects",
+    learning:["Typescript", "APIs"],
   },
   technologies:{
       frameworks:["nodeJs", "React", "React Native", "Unity", "Firebase"],
@@ -25,4 +25,4 @@ const readMe = {
 };
 ```
 
-Check out my portfolio at https://nikschaefer.vercel.app/
+### Check out my portfolio at https://nikschaefer.vercel.app/
