@@ -6,7 +6,7 @@ const readMe = {
   
   greetings: "👋 Stranger",
   iAm: "An Aspiring Developer",
-  mainCraft: "Full stack Development, Product Design, Interaction Design",
+  iDo: "Full Stack Web Development, Product Design, Interaction Design",
   currently:{
     InternFor:"💻 The Esport Company",
     Education:"🏫 in High School",
@@ -17,12 +17,7 @@ const readMe = {
       frameworks:["nodeJs", "React", "React Native", "Unity", "Firebase"],
       languages: ["Javascript", "Python", "HTML", "CSS", "C#", "JSX"],
   },
-  askMeAbout:["Game Dev", "App Dev", "Web Dev", "Tech"],
-  findMeOn:[{ discord: "Niko.#5460", "https://nikschaefer.vercel.app/" }],
-
   Contact:'nikkschaefer@gmail.com'
-
 };
 ```
-
 ### Check out my portfolio at https://nikschaefer.vercel.app/
