@@ -11,7 +11,7 @@ const readMe = {
     InternFor:"💻 The Esport Company",
     Education:"🏫 in High School",
     workingOn:"Open source projects",
-    learning:["Typescript", "APIs"],
+    learning:"Typescript",
   },
   technologies:{
       frameworks:["nodeJs", "React", "React Native", "Unity", "Firebase"],
