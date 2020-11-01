@@ -10,7 +10,7 @@ const readMe = {
   currently:{
     InternFor:"💻 The Esport Company",
     Education:"🏫 in High School",
-    workingOn:"Open source projects",
+    workingOn:"Open source projects, Freelance Development",
     learning:"Typescript",
   },
   technologies:{
