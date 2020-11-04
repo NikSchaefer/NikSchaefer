@@ -6,15 +6,14 @@ const readMe = {
   
   greetings: "👋 Stranger",
   iAm: "An Aspiring Developer",
-  iDo: "Full Stack Web Development, Product Design, Interaction Design",
+  iDo: "Full Stack Web Development, Product Design, Data Science",
   currently:{
     InternFor:"💻 The Esport Company",
     Education:"🏫 in High School",
     workingOn:"Open source projects, Freelance Development",
-    learning:"Typescript",
   },
   technologies:{
-      frameworks:["nodeJs", "React", "React Native", "Unity", "Firebase"],
+      frameworks:["nodeJs", "tensorflow", "React", "React Native", "Unity", "Firebase"],
       languages: ["Javascript", "Python", "HTML", "CSS", "C#", "JSX"],
   },
   Contact:'nikkschaefer@gmail.com'
