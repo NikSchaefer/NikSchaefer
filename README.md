@@ -2,7 +2,7 @@
 ### Contact me at 📧  nikkschaefer@gmail.com
 ```js
 const readMe = {
-  portfolio: "https://nikschaefer.vercel.app/",
+  portfolio: "https://nikschaefer.tech/",
   
   greetings: "👋 Stranger",
   iAm: "An Aspiring Developer",
@@ -20,4 +20,4 @@ const readMe = {
   Contact:'nikkschaefer@gmail.com'
 };
 ```
-### Check out my portfolio at https://nikschaefer.vercel.app/
+### Check out my portfolio at https://nikschaefer.tech/
