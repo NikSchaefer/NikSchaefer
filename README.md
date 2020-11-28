@@ -15,7 +15,7 @@ const readMe = {
   },
   technologies:{
       frameworks:["nodeJs", "tensorflow", "React", "React Native", "Unity", "Firebase"],
-      languages: ["Javascript", "Python", "HTML", "CSS", "C#", "JSX"],
+      languages: ["Javascript", "Typescript", "Python", "HTML", "CSS", "C#"],
   },
   Contact:'nikkschaefer@gmail.com'
 };
