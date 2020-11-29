@@ -1,16 +1,12 @@
 ## Nik Schaefer
 ### Contact me at 📧  nikkschaefer@gmail.com
 ```js
-const readMe = {
-  portfolio: "https://nikschaefer.tech/",
-  
+const readMe = { 
   greetings: "👋 Stranger",
-  iAm: "An Aspiring Developer",
   iDo: "Full Stack Web Development, Product Design, Data Science",
   currently:{
-    InternFor:"💻 The Esport Company",
     Education:"🏫 in High School",
-    workingOn:"Machine Learning projects, Freelance Development",
+    workingOn:"📊 Machine Learning projects, Freelance Development",
     learning: ['Django', 'Tensorflow'],
   },
   technologies:{
