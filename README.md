@@ -3,11 +3,11 @@
 ```js
 const readMe = { 
   greetings: "👋 Stranger",
-  iDo: "Full Stack Web Development, Product Design, Data Science",
+  iDo: "🚀 Full Stack Web Development, Data Science",
   currently:{
     Education:"🏫 in High School",
     workingOn:"📊 Machine Learning projects, Freelance Development",
-    learning: ['Django', 'Tensorflow'],
+    learning: 'Tensorflow',
   },
   technologies:{
       frameworks:["nodeJs", "tensorflow", "React", "React Native", "Unity", "Firebase"],
@@ -16,4 +16,4 @@ const readMe = {
   Contact:'nikkschaefer@gmail.com'
 };
 ```
-### Check out my portfolio at https://nikschaefer.tech/
+### My [Portfolio](https://nikschaefer.tech/)
