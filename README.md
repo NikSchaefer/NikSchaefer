@@ -5,12 +5,11 @@ const readMe = {
   greetings: "👋 Stranger",
   iDo: "🚀 Full Stack Web Development, Data Science",
   currently:{
-    Education:"🏫 in High School",
-    workingOn:"📊 Machine Learning projects, Freelance Development",
+    workingOn:"📊 Open Source Projects, Freelance Development",
     learning: 'Tensorflow',
   },
   technologies:{
-      frameworks:["nodeJs", "tensorflow", "React", "React Native", "Unity", "Firebase"],
+      frameworks:["Django", "tensorflow", "React", "React Native", "Firebase"],
       languages: ["Javascript", "Typescript", "Python", "HTML", "CSS", "C#"],
   },
   Contact:'nikkschaefer@gmail.com'
