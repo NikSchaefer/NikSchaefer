@@ -17,6 +17,7 @@ const readMe = {
 ```
 
 <div style="display:flex; justify-content: space-evenly">
+  
 [![Nik Schaefer's github stats](https://github-readme-stats.vercel.app/api?username=NikSchaefer&count_private=true&layout=compact&show_icons=true&theme=radical)](https://github.com/NikSchaefer/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikSchaefer&hide=c%23,shaderlab,hlsl&langs_count=8&show_icons=true&theme=radical)](https://github.com/NikSchaefer/github-readme-stats)
