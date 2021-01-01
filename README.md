@@ -18,9 +18,9 @@ const readMe = {
 
 <div style="display:flex; justify-content: space-evenly">
   
-[![Nik Schaefer's github stats](https://github-readme-stats.vercel.app/api?username=NikSchaefer&count_private=true&layout=compact&show_icons=true&theme=radical)](https://github.com/NikSchaefer/github-readme-stats)
+[![Nik Schaefer's github stats](https://github-readme-stats.vercel.app/api?username=NikSchaefer&count_private=true&layout=compact&show_icons=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=graywhite" )](https://github.com/NikSchaefer/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikSchaefer&hide=c%23,shaderlab,hlsl&langs_count=8&show_icons=true&theme=radical)](https://github.com/NikSchaefer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikSchaefer&hide=c%23,shaderlab,hlsl&langs_count=8&show_icons=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=graywhite")](https://github.com/NikSchaefer/github-readme-stats)
 </div>
 <!-- 
 ![Selenium](https://img.shields.io/badge/selenium%20-%23E34F26.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=white)
@@ -38,4 +38,17 @@ const readMe = {
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 -->
 
-### My [Portfolio](https://nikschaefer.tech/)
+### Portfolio
+You can find my portfolio [Here](https://nikschaefer.tech/)
+
+
+
+
+
+
+
+
+
+
+
+
