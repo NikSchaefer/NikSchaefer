@@ -6,10 +6,10 @@ const readMe = {
   iDo: "🚀 Full Stack Web Development, Data Science",
   currently:{
     workingOn:"📊 Freelance Development",
-    learning: 'Tensorflow',
+    learning: 'NextJS and Gatsby',
   },
   technologies:{
-      frameworks:["Django", "tensorflow", "React", "React Native", "Firebase"],
+      frameworks:["Django", "Gatsby", "React", "React Native", "Firebase", "Tensorflow"],
       languages: ["Javascript", "Typescript", "Python", "HTML", "CSS", "C#"],
   },
 };
