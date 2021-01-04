@@ -5,24 +5,23 @@ const readMe = {
   greetings: "👋 Stranger",
   iDo: "🚀 Full Stack Web Development, Data Science",
   currently:{
-    workingOn:"📊 Open Source Projects, Freelance Development",
+    workingOn:"📊 Freelance Development",
     learning: 'Tensorflow',
   },
   technologies:{
       frameworks:["Django", "tensorflow", "React", "React Native", "Firebase"],
       languages: ["Javascript", "Typescript", "Python", "HTML", "CSS", "C#"],
   },
-  Contact:'nikkschaefer@gmail.com'
 };
 ```
 
 <div style="display:flex; justify-content: space-evenly">
   
-[![Nik Schaefer's github stats](https://github-readme-stats.vercel.app/api?username=NikSchaefer&count_private=true&layout=compact&show_icons=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=radical" )](https://github.com/NikSchaefer/github-readme-stats)
+[![Nik Schaefer's github stats](https://github-readme-stats.vercel.app/api?username=NikSchaefer&count_private=true&show_icons=true&theme=dracula" )](https://github.com/NikSchaefer/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikSchaefer&hide=c%23,shaderlab,hlsl&langs_count=8&show_icons=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=radical")](https://github.com/NikSchaefer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikSchaefer&hide=c%23,shaderlab,hlsl&langs_count=8&show_icons=true&count_private=true&theme=dracula")](https://github.com/NikSchaefer/github-readme-stats)
 </div>
-<!-- 
+<!--
 ![Selenium](https://img.shields.io/badge/selenium%20-%23E34F26.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?&style=for-the-badge&logo=Typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
@@ -40,15 +39,3 @@ const readMe = {
 
 ### Portfolio
 You can find my portfolio [Here](https://nikschaefer.tech/)
-
-
-
-
-
-
-
-
-
-
-
-
