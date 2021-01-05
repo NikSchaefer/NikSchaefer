@@ -9,7 +9,7 @@ const readMe = {
     learning: 'NextJS and Gatsby',
   },
   technologies:{
-      frameworks:["Django", "Gatsby", "React", "React Native", "Firebase", "Tensorflow"],
+      frameworks:["NextJS", "Django", "Gatsby", "React", "React Native", "Firebase", "Tensorflow"],
       languages: ["Javascript", "Typescript", "Python", "HTML", "CSS", "C#"],
   },
 };
