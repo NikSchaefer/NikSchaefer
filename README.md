@@ -3,7 +3,7 @@
 ```js
 const readMe = { 
   greetings: "👋 Stranger",
-  workingOn:"📊 Freelance Development",
+  currently:"📊 Neck deep in Typescript NextJS",
   learning: 'NextJS and Gatsby',
   technologies:{
       frameworks:["NextJS", "Django", "Gatsby", "React", "React Native", "Firebase", "Tensorflow"],
