@@ -3,25 +3,22 @@
 ```js
 const readMe = { 
   greetings: "👋 Stranger",
-  iDo: "🚀 Full Stack Web Development, Data Science",
-  currently:{
-    workingOn:"📊 Freelance Development",
-    learning: 'NextJS and Gatsby',
-  },
+  workingOn:"📊 Freelance Development",
+  learning: 'NextJS and Gatsby',
   technologies:{
       frameworks:["NextJS", "Django", "Gatsby", "React", "React Native", "Firebase", "Tensorflow"],
-      languages: ["Javascript", "Typescript", "Python", "HTML", "CSS", "C#"],
+      languages: ["Javascript(ES6+)", "Typescript", "Python", "HTML", "CSS", "C#"],
   },
 };
 ```
-
+<!--
 <div style="display:flex; justify-content: space-evenly">
   
 [![Nik Schaefer's github stats](https://github-readme-stats.vercel.app/api?username=NikSchaefer&count_private=true&show_icons=true&theme=dracula" )](https://github.com/NikSchaefer/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikSchaefer&hide=c%23,shaderlab,hlsl&langs_count=8&show_icons=true&count_private=true&theme=dracula")](https://github.com/NikSchaefer/github-readme-stats)
 </div>
-<!--
+
 ![Selenium](https://img.shields.io/badge/selenium%20-%23E34F26.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?&style=for-the-badge&logo=Typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
