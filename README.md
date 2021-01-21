@@ -1,4 +1,4 @@
-## Nik Schaefer
+## 👋 Hello world, I'm Nik Schaefer!
 ### Contact me at 📧  nikkschaefer@gmail.com
 ```js
 const readMe = { 
@@ -34,5 +34,5 @@ const readMe = {
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 -->
 
-### Portfolio
+### ☑️ Portfolio
 You can find my portfolio [Here](https://nikschaefer.tech/)
