@@ -10,7 +10,7 @@ const readMe = {
   greetings: "👋 Stranger",
   currently:"in Typescript, NextJS and Python, Django",
   technologies:{
-      frameworks:["NextJS", "Django", "Gatsby", "React", "React Native", "Firebase", "Tensorflow"],
+      frameworks:["NextJS", "Django", "Gatsby", "React", "React Native", "Firebase"],
       languages: ["Javascript(ES6+)", "Typescript", "Python", "HTML", "CSS", "C#"],
   },
 };
