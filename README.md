@@ -11,7 +11,7 @@ const readMe = {
   currently:"in Typescript, NextJS and Python, Django",
   technologies:{
       frameworks:["NextJS", "Django", "Gatsby", "React", "React Native", "Firebase"],
-      languages: ["Javascript(ES6+)", "Typescript", "Python", "HTML", "CSS", "C#"],
+      languages: ["Golang", "Javascript(ES6+)", "Typescript", "Python", "HTML", "CSS", "C#"],
   },
 };
 ```
