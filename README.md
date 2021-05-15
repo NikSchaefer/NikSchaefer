@@ -1,9 +1,4 @@
-<h1 align='center'>👋 Hello world</h1>
-
-
-<!--
-<img width="300" src="/code.png" />
--->
+<h1 align='center'>👋 Hello, World!</h1>
 
 ```js
 const readMe = { 
@@ -15,10 +10,6 @@ const readMe = {
   },
 };
 ```
-<!--
-<h2 align="center">🔭 Tools of Trade</h2>
-<p align="center">NextJS, Django, React, Typescript, Python, Javascript(ES6+), Git + Github, AWS, HTML + CSS, Gatsby, React Native, PostgresSQL</p>
--->
 
 <p align='center'>You can find my portfolio <a href="https://nikschaefer.tech/">here</a> | Contact me at <a href="mailto:nikkschaefer@gmail.com</p>">nikkschaefer@gmail.com</a
 </p>
