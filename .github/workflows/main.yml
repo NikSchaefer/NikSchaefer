@@ -15,7 +15,6 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_habits: yes
-          plugin_introduction: yes 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
