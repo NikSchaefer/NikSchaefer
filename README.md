@@ -1,4 +1,4 @@
-<h1 align='center'>👋 Hi!</h1>
+<h1>👋 Hi!</h1>
 
 I'm a full stack developer, machine learning student, and open source enthusiast.
 
