@@ -1,7 +1,7 @@
-<h1 align='center'>👋 Hello, World!</h1>
+<h1 align='center'>👋 Hi!</h1>
 
+I'm a full stack developer, machine learning student, and open source enthusiast.
 
 ![Metrics](https://github.com/NikSchaefer/NikSchaefer/blob/master/github-metrics.svg)
-<!-- 
-![Metrics](https://metrics.lecoq.io/NikSchaefer)
- -->
+
+Visit my Personal Portfolio <a href="https://nikschaefer.tech">here</a>
