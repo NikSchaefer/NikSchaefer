@@ -1,7 +1,9 @@
-<h1>👋 Hi!</h1>
-
-I'm a full stack developer, machine learning student, and open source enthusiast.
-Visit my Personal Portfolio <a href="https://nikschaefer.tech">here</a>
-
 ![Metrics](https://github.com/NikSchaefer/NikSchaefer/blob/master/github-metrics.svg)
 
+👋 Find me on the web
+
+🌎 [https://nikschaefer.webdefyer.com](nikschaefer.vercel.app)
+
+✉️ [nikkschaefer@gmail.com](mailto:nikkschaefer@gmail.com)
+
+💼 [htps://linkedin.com](https://www.linkedin.com/in/nikschaefer/)
