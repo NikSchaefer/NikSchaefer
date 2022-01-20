@@ -1,6 +1,6 @@
 ![Metrics](https://github.com/NikSchaefer/NikSchaefer/blob/master/github-metrics.svg)
 
-👋 Find me on the web
+## 👋 Find me on the web
 
 🌎 [https://nikschaefer.webdefyer.com](nikschaefer.vercel.app)
 
