@@ -21,4 +21,4 @@ jobs:
           plugin_lines: yes
           plugin_notable: yes
           plugin_achievements: yes
-          plugin_achievements_only: polygot, contributor, inspirer, maintainer, developer, influencer, deployer
+          plugin_achievements_only: polyglot, contributor, inspirer, maintainer, developer, influencer, deployer
