@@ -6,4 +6,4 @@
 
 ✉️ [nikkschaefer@gmail.com](mailto:nikkschaefer@gmail.com)
 
-💼 [https://linkedin.com](https://www.linkedin.com/in/nikschaefer/)
+💼 [https://linkedin.com/in/nikschaefer](https://www.linkedin.com/in/nikschaefer/)
