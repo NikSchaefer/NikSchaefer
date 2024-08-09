@@ -9,10 +9,6 @@ I'm a software developer, entrepreneur, and Computer Engineering student at UW-M
 - Managing Blue Mango Software, my consulting venture
 - Pursuing my degree in Computer Engineering @UW-Madison
 
-## 🤝 Let's Connect
-
-I'm always excited to collaborate on innovative projects or engage in discussions about tech, business, or philosophy. Feel free to reach out!
-
 [LinkedIn](https://www.linkedin.com/in/nikschaefer/) | [nikkschaefer@gmail.com](mailto:nikkschaefer@gmail.com) | [Stats](https://raw.githubusercontent.com/NikSchaefer/NikSchaefer/master/github-metrics.svg)
 
 ---
