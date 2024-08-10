@@ -1,6 +1,6 @@
 # 👋 hey, I'm Nik! 
 
-I'm a software developer, entrepreneur, and Computer Engineering student at UW-Madison. My passion lies at the intersection of technology, business, and philosophy.
+I'm a software developer, business owner, and Computer Engineering student at UW-Madison. My passion lies at the intersection of technology, business, and philosophy.
 
 ## 🚀 What I'm Up To
 
