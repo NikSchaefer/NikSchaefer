@@ -13,4 +13,4 @@ I'm a software developer, business owner, and Computer Engineering student at UW
 
 ---
 
-> 🌓 "how does one blow up a moon? By being smart enough to build technology that can do so, and simultaneously stupid enough to use it." - Exurb1a
+> "how does one blow up a moon? By being smart enough to build technology that can do so, and simultaneously stupid enough to use it." - Exurb1a
