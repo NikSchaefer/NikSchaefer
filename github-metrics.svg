@@ -245,7 +245,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1219.4366666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1219.85 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -267,7 +267,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 12801 times</div>
+                                <div class="text">Repositories have been deployed 12805 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -383,7 +383,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 867k out of 205m repositories</span>
+                                    <span class="gh">ranked 867k out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 14 times</div>
                             </div>
@@ -421,7 +421,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 417k out of 205m repositories</span>
+                                    <span class="gh">ranked 417k out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 89 stars</div>
                             </div>
@@ -473,7 +473,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 896k out of 151m users</span>
+                                    <span class="gh">ranked 897k out of 151m users</span>
                                 </div>
                                 <div class="text">Followed by 18 users</div>
                             </div>
@@ -483,7 +483,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Dec 2024, 11:08:39  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Dec 2024, 12:17:27  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
